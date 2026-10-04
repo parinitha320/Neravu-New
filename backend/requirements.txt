@@ -12,3 +12,4 @@ numpy
 #   Debian/Ubuntu  sudo apt install ffmpeg
 # Without it every /transcribe request fails. GET /health reports whether
 # the backend found it.
+google-genai
